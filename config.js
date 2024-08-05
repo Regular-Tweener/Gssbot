@@ -7,11 +7,11 @@ global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
 global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
+global.ownername = "Supernal Values";
 global.owner = ['2349124160341'];
 global.premium = ['2349124160341'];
 global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
-global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
+global.author = "Joshua Ekarika";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
